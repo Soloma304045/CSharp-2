@@ -1,0 +1,14 @@
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\obj\Debug\net481\Test.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\obj\Debug\net481\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\obj\Debug\net481\Test.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\obj\Debug\net481\Test.AssemblyInfo.cs
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\obj\Debug\net481\Test.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\bin\Debug\net481\Test.exe.config
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\bin\Debug\net481\Test.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\bin\Debug\net481\Test.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\bin\Debug\net481\NCalc.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\bin\Debug\net481\Library.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\bin\Debug\net481\Library.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\obj\Debug\net481\Test.csproj.Up2Date
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\obj\Debug\net481\Test.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Test\obj\Debug\net481\Test.pdb
