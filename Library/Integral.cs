@@ -37,6 +37,15 @@
         }
 
         /// <summary>
+        /// Получает значение функции.
+        /// </summary>
+        /// <returns>Значение функции.</returns>
+        public double? GetValue()
+        {
+            return _computedValue;
+        }
+
+        /// <summary>
         /// Вычисляет значение определенного интеграла.
         /// </summary>
         /// <returns>Значение интеграла или <c>null</c>, если интеграл не вычислен.</returns>
@@ -52,28 +61,6 @@
             }
             _computedValue = sum * stepSize;
             return _computedValue;
-        }
-
-        /// <summary>
-        /// Оператор сложения для интегралов.
-        /// </summary>
-        /// <param name="a">Первый интеграл.</param>
-        /// <param name="b">Второй интеграл.</param>
-        /// <returns>Сумма значений интегралов.</returns>
-        public static double? operator +(Integral a, Integral b)
-        {
-            return a._computedValue + b._computedValue;
-        }
-
-        /// <summary>
-        /// Оператор умножения для интеграла и числа.
-        /// </summary>
-        /// <param name="integral">Интеграл.</param>
-        /// <param name="number">Число.</param>
-        /// <returns>Результат умножения значения интеграла на число.</returns>
-        public static double? operator *(Integral integral, double number)
-        {
-            return integral._computedValue * number;
         }
 
         /// <summary>

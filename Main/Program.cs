@@ -96,7 +96,7 @@ class Program
                                 Console.WriteLine("Error. Wrong input, try again.");
                                 break;
                             }
-                            result = integrals[userChoice[0]-1] + integrals[userChoice[1]-1];
+                            result = Calculate.Sum(integrals[userChoice[0]-1], integrals[userChoice[1]-1]);
                             Console.WriteLine($"Сумма интегралов равна {result}");
                             break;
                         }
@@ -119,7 +119,7 @@ class Program
                             input = Console.ReadLine();
                             if (double.TryParse(input, out number))
                             {
-                                result = integrals[userChoice[0]-1] * number;
+                                result = Calculate.Mul(integrals[userChoice[0]-1], number);
                                 Console.WriteLine($"Произведение интеграла и {userChoice[1]} равна {result}");
                             }
                             else

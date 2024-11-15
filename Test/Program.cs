@@ -31,9 +31,9 @@ class Program
         Console.WriteLine("\n");
         integrals[4].Print();
         Console.WriteLine("\n");
-        Console.WriteLine($"Сумма интегралов {integrals[1].GetName()} и {integrals[3].GetName()} = {integrals[1] + integrals[3]}");
+        Console.WriteLine($"Сумма интегралов {integrals[1].GetName()} и {integrals[3].GetName()} = {Calculate.Sum(integrals[1], integrals[3])}");
         Console.WriteLine("\n");
-        Console.WriteLine($"Сумма интегралов {integrals[2].GetName()} и {integrals[4].GetName()} = {integrals[2] + integrals[4]}");
+        Console.WriteLine($"Сумма интегралов {integrals[2].GetName()} и {integrals[4].GetName()} = {Calculate.Sum(integrals[2], integrals[4])}");
         Console.WriteLine("\n");
         Console.WriteLine($"Сумма интегралов {integrals[0].GetName()} и {integrals[1].GetName()} = {integrals[0] + integrals[1]}");
         Console.WriteLine("\n");

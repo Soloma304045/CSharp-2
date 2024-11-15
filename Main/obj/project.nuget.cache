@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uN8CsE2ktZQ=",
+  "dgSpecHash": "iexy6jCKvX/SmNGhLJCbAERgFzdz/stEPrXd9By37XhU+bWgc5W213DSx7hgcVqDnfFIV4OJLGGDT6V6aoINdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Main\\Main.csproj",
+  "projectFilePath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Main\\Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Иван\\.nuget\\packages\\ncalc\\1.3.8\\ncalc.1.3.8.nupkg.sha512"
   ],

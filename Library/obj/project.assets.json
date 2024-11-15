@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\obj\\",
+      "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,17 +38,12 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
       "net481": {
         "targetAlias": "net481",
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
       }
     }
   }
