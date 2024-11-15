@@ -8,7 +8,7 @@ namespace Library
         /// <param name="integral">Интеграл.</param>
         /// <param name="number">Число.</param>
         /// <returns>Сумма значений интеграла и числа.</returns>
-        public static double? Sum(Integral integral, double number)
+        public double? Sum(Integral integral, double number)
         {
             return integral.GetValue() + number;
         }
@@ -19,7 +19,7 @@ namespace Library
         /// <param name="a">Первый интеграл.</param>
         /// <param name="b">Второй интеграл.</param>
         /// <returns>Сумма значений интегралов.</returns>
-        public static double? Sum(Integral a, Integral b)
+        public double? Sum(Integral a, Integral b)
         {
             return a.GetValue() + b.GetValue();
         }
@@ -30,7 +30,7 @@ namespace Library
         /// <param name="integral">Интеграл.</param>
         /// <param name="number">Число.</param>
         /// <returns>Результат умножения значения интеграла на число.</returns>
-        public static double? Mul(Integral integral, double number)
+        public double? Mul(Integral integral, double number)
         {
             return integral.GetValue() * number;
         }
@@ -41,7 +41,7 @@ namespace Library
         /// <param name="a">Первый интеграл.</param>
         /// <param name="b">Второй интеграл.</param>
         /// <returns>Результат умножения значения интегралов.</returns>
-        public static double? Mul(Integral a, Integral b)
+        public double? Mul(Integral a, Integral b)
         {
             return a.GetValue() * b.GetValue();
         }
