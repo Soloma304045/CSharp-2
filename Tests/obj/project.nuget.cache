@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JLIbFuSI3M8=",
+  "dgSpecHash": "S01OTb2ntQI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Иван\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Иван\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",

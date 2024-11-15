@@ -17,3 +17,4 @@ C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2 — копия\Library\o
 C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2 — копия\Library\obj\Debug\net481\Library.sourcelink.json
 C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2 — копия\Library\obj\Debug\net481\Library.dll
 C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2 — копия\Library\obj\Debug\net481\Library.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Library\obj\Debug\net481\Library.sourcelink.json

@@ -27,3 +27,4 @@ C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2 — копия\Main\obj\
 C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2 — копия\Main\obj\Debug\net481\Main.csproj.Up2Date
 C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2 — копия\Main\obj\Debug\net481\Main.exe
 C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2 — копия\Main\obj\Debug\net481\Main.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-2\Main\obj\Debug\net481\Main.sourcelink.json

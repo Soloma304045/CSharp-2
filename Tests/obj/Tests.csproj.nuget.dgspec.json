@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Tests\\Tests.csproj": {}
+    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\Library.csproj": {
+    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\Library.csproj",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -46,14 +46,14 @@
         }
       }
     },
-    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Main\\Main.csproj": {
+    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Main\\Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Main\\Main.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Main\\Main.csproj",
         "projectName": "Main",
-        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Main\\Main.csproj",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Main\\Main.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Main\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -68,8 +68,8 @@
           "net481": {
             "targetAlias": "net481",
             "projectReferences": {
-              "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\Library.csproj": {
-                "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\Library.csproj"
+              "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\Library.csproj": {
+                "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\Library.csproj"
               }
             }
           }
@@ -103,14 +103,14 @@
         }
       }
     },
-    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Tests\\Tests.csproj": {
+    "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Tests\\Tests.csproj",
+        "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Tests\\obj\\",
+        "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -125,11 +125,11 @@
           "net481": {
             "targetAlias": "net481",
             "projectReferences": {
-              "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\Library.csproj": {
-                "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Library\\Library.csproj"
+              "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\Library.csproj": {
+                "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Library\\Library.csproj"
               },
-              "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Main\\Main.csproj": {
-                "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2 — копия\\Main\\Main.csproj"
+              "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Main\\Main.csproj": {
+                "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-2\\Main\\Main.csproj"
               }
             }
           }
