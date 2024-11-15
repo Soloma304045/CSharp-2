@@ -8,20 +8,20 @@ namespace Library
         /// <param name="integral">Интеграл.</param>
         /// <param name="number">Число.</param>
         /// <returns>Сумма значений интеграла и числа.</returns>
-        public double? Sum(Integral integral, double number)
+        public static double Sum(Integral integral, double number)
         {
-            return integral.GetValue() + number;
+            return integral.GetValue().GetValueOrDefault() + number;
         }
 
         /// <summary>
         /// Метод сложения для интегралов.
         /// </summary>
-        /// <param name="a">Первый интеграл.</param>
-        /// <param name="b">Второй интеграл.</param>
+        /// <param name="integralA">Первый интеграл.</param>
+        /// <param name="integralB">Второй интеграл.</param>
         /// <returns>Сумма значений интегралов.</returns>
-        public double? Sum(Integral a, Integral b)
+        public static double Sum(Integral integralA, Integral integralB)
         {
-            return a.GetValue() + b.GetValue();
+            return integralA.GetValue().GetValueOrDefault() + integralB.GetValue().GetValueOrDefault();
         }
 
         /// <summary>
@@ -30,20 +30,20 @@ namespace Library
         /// <param name="integral">Интеграл.</param>
         /// <param name="number">Число.</param>
         /// <returns>Результат умножения значения интеграла на число.</returns>
-        public double? Mul(Integral integral, double number)
+        public static double Mul(Integral integral, double number)
         {
-            return integral.GetValue() * number;
+            return integral.GetValue().GetValueOrDefault() * number;
         }
 
         /// <summary>
         /// Метод умножения для интегралов.
         /// </summary>
-        /// <param name="a">Первый интеграл.</param>
-        /// <param name="b">Второй интеграл.</param>
+        /// <param name="integralA">Первый интеграл.</param>
+        /// <param name="integralB">Второй интеграл.</param>
         /// <returns>Результат умножения значения интегралов.</returns>
-        public double? Mul(Integral a, Integral b)
+        public static double Mul(Integral integralA, Integral integralB)
         {
-            return a.GetValue() * b.GetValue();
+            return integralA.GetValue().GetValueOrDefault() * integralB.GetValue().GetValueOrDefault();
         }
     }
 }

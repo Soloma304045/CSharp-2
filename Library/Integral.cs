@@ -49,7 +49,7 @@
         /// Вычисляет значение определенного интеграла.
         /// </summary>
         /// <returns>Значение интеграла или <c>null</c>, если интеграл не вычислен.</returns>
-        public double? Calculate()
+        public double? Solve()
         {
             double stepSize = (_upperLimit - _lowerLimit) / 1000;
             double sum = 0.0;

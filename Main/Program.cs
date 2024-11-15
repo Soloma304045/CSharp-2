@@ -17,8 +17,8 @@ class Program
         List<Integral> integrals = new List<Integral>();
         Integral integralA = new Integral(x => 1 / (1 + x * x), 2, 7, "1 / (1 + x^2)");
         Integral integralB = new Integral(x => x * x, 2, 7, "x^2");
-        integralA.Calculate();
-        integralB.Calculate();
+        integralA.Solve();
+        integralB.Solve();
         integrals.Add(integralA);
         integrals.Add(integralB);
         bool endIsNear = false;
@@ -57,7 +57,7 @@ class Program
                             Console.WriteLine("Название функции: ");
                             name = Console.ReadLine();
                             integrals.Add(new Integral(func, lowerLimit, upperLimit, name));
-                            integrals[integrals.Count-1].Calculate();
+                            integrals[integrals.Count-1].Solve();
                             break;
                         }
                     case 2:
